@@ -1,0 +1,5 @@
+Flask
+Flask-MySQL
+PyMySQL
+Jinja2
+cryptography==3.1.1
